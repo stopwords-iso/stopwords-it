@@ -1,0 +1,21 @@
+{
+  "name": "stopwords-it",
+  "description": "The most comprehensive collection of stopwords for the italian language.",
+  "keywords": [
+    "italian",
+    "stopwords",
+    "stop words"
+  ],
+  "homepage": "https://github.com/stopwords-iso/stopwords-it",
+  "authors": [
+    "Gene Diaz <genediazjr@gmail.com>"
+  ],
+  "license": "MIT",
+  "main": "stopwords-it.json",
+  "ignore": [
+    "**/.*",
+    "raw",
+    "node_modules",
+    "bower_components"
+  ]
+}
