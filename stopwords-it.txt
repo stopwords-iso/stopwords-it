@@ -12,6 +12,7 @@ agl
 agli
 ahime
 ahimã¨
+ahimè
 ai
 al
 alcuna
@@ -101,10 +102,13 @@ cinque
 cio
 cioe
 cioã¨
+cioè
 circa
 citta
+città
 cittã
 ciã²
+ciò
 co
 codesta
 codesti
@@ -133,6 +137,7 @@ cos
 cosa
 cosi
 cosã¬
+così
 cui
 d
 da
@@ -171,6 +176,7 @@ doppio
 dov
 dove
 dovra
+dovrà
 dovrã
 dovunque
 due
@@ -269,6 +275,7 @@ giacche
 giorni
 giorno
 giu
+già
 giã
 gli
 gliela
@@ -314,6 +321,7 @@ loro
 lui
 lungo
 luogo
+là
 lã
 ma
 macche
@@ -408,14 +416,17 @@ peggio
 per
 perche
 perchã¨
+perchè
 perché
 percio
 perciã²
+perciò
 perfino
 pero
 persino
 persone
 perã²
+però
 piedi
 pieno
 piglia
@@ -446,6 +457,7 @@ puo
 pure
 purtroppo
 puã²
+può
 qua
 qualche
 qualcosa
