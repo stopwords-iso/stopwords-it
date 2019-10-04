@@ -7,11 +7,10 @@ abbiate
 accidenti
 ad
 adesso
-affinche
+affinché
 agl
 agli
 ahime
-ahimã¨
 ahimè
 ai
 al
@@ -78,7 +77,6 @@ basta
 ben
 bene
 benissimo
-berlusconi
 brava
 bravo
 buono
@@ -101,13 +99,10 @@ cima
 cinque
 cio
 cioe
-cioã¨
 cioè
 circa
 citta
 città
-cittã
-ciã²
 ciò
 co
 codesta
@@ -126,7 +121,6 @@ comprare
 comunque
 con
 concernente
-conciliarsi
 conclusione
 consecutivi
 consecutivo
@@ -136,7 +130,6 @@ cortesia
 cos
 cosa
 cosi
-cosã¬
 così
 cui
 d
@@ -177,7 +170,6 @@ dov
 dove
 dovra
 dovrà
-dovrã
 dovunque
 due
 dunque
@@ -276,14 +268,12 @@ giorni
 giorno
 giu
 già
-giã
 gli
 gliela
 gliele
 glieli
 glielo
 gliene
-governo
 grande
 grazie
 gruppo
@@ -322,7 +312,6 @@ lui
 lungo
 luogo
 là
-lã
 ma
 macche
 magari
@@ -349,7 +338,6 @@ mila
 miliardi
 milioni
 minimi
-ministro
 mio
 modo
 molta
@@ -415,24 +403,20 @@ peccato
 peggio
 per
 perche
-perchã¨
 perchè
 perché
 percio
-perciã²
 perciò
 perfino
 pero
 persino
 persone
-perã²
 però
 piedi
 pieno
 piglia
 piu
 piuttosto
-piã¹
 più
 po
 pochissimo
@@ -456,7 +440,6 @@ proprio
 puo
 pure
 purtroppo
-puã²
 può
 qua
 qualche
@@ -508,7 +491,6 @@ sareste
 saresti
 sarete
 sarà
-sarã
 sarò
 scola
 scopo
@@ -541,7 +523,6 @@ sopra
 soprattutto
 sotto
 spesso
-srl
 sta
 stai
 stando
@@ -611,7 +592,6 @@ terzo
 th
 ti
 titolo
-torino
 tra
 tranne
 tre
@@ -656,5 +636,4 @@ vostra
 vostre
 vostri
 vostro
-ã¨
 è
