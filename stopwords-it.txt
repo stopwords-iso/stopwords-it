@@ -81,7 +81,6 @@ brava
 bravo
 buono
 c
-casa
 caso
 cento
 certa
@@ -96,6 +95,7 @@ ci
 ciascuna
 ciascuno
 cima
+ciao
 cinque
 cio
 cioe
@@ -263,6 +263,7 @@ futuro
 generale
 gente
 gia
+gi
 giacche
 giorni
 giorno
@@ -301,7 +302,6 @@ l
 la
 lasciato
 lato
-lavoro
 le
 lei
 li
@@ -320,8 +320,6 @@ mai
 male
 malgrado
 malissimo
-mancanza
-marche
 me
 medesimo
 mediante
@@ -346,8 +344,6 @@ moltissimo
 molto
 momento
 mondo
-mosto
-nazionale
 ne
 negl
 negli
@@ -625,7 +621,6 @@ varie
 vario
 verso
 vi
-via
 vicino
 visto
 vita
