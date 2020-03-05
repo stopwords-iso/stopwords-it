@@ -3,8 +3,7 @@
 	abbastanza  
 	accidenti   
 	ad          
-	adesso      
-	affinche    
+	adesso
 	agli        
 	ahime       
 	ahimè       
@@ -41,11 +40,9 @@
 	avuto       
 	basta       
 	bene        
-	benissimo   
-	berlusconi  
+	benissimo
 	brava       
-	bravo       
-	casa        
+	bravo
 	caso        
 	cento       
 	certa       
@@ -157,7 +154,7 @@
 	glieli      
 	glielo      
 	gliene      
-	governo     
+
 	grande      
 	grazie      
 	gruppo      
@@ -179,7 +176,7 @@
 	l           
 	la          
 	là          
-	lavoro      
+
 	le          
 	lei         
 	li          
@@ -210,12 +207,12 @@
 	mila        
 	miliardi    
 	milioni     
-	ministro    
+
 	mio         
 	moltissimo  
 	molto       
 	mondo       
-	nazionale   
+
 	ne          
 	negli       
 	nei         
@@ -359,7 +356,7 @@
 	te          
 	tempo       
 	ti          
-	torino      
+
 	tra         
 	tranne      
 	tre         
@@ -386,7 +383,7 @@
 	vario       
 	verso       
 	vi          
-	via         
+
 	vicino      
 	visto       
 	vita        

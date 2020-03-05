@@ -95,7 +95,6 @@ ci
 ciascuna
 ciascuno
 cima
-ciao
 cinque
 cio
 cioe
@@ -263,7 +262,6 @@ futuro
 generale
 gente
 gia
-gi
 giacche
 giorni
 giorno
