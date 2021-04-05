@@ -81,6 +81,7 @@ brava
 bravo
 buono
 c
+c'è
 caso
 cento
 certa
